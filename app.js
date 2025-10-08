@@ -1,1 +1,1 @@
-console.log("version 4.0.0");
+console.log("conflict 2.0.0");
