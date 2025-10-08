@@ -1,2 +1,2 @@
 console.log("Hello, World!");
-console.log("I am learning Git branching and merging.");
+console.log("I am learning Git branching and merging. Change one.");
